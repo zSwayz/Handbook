@@ -10,3 +10,4 @@ IRC is a place for all of us to hang out, chat and provide support. Please follo
 * No threats directed towards other people or servers. 
 * Offtopic discussion is allowed, but spigot related discussion takes priority. If somebody joins asking for support, pause your conversation and help them if you can.
 * Keep the chat in English as much as possible. If you don't speak english, but another person in the channel speaks your language and wants to help, feel free to PM them.
+* In dispute, of unlisted rules, moderators say is final. Any complaints about a moderators actions must be directed to md_5.
