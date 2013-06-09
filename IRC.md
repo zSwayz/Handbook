@@ -4,7 +4,7 @@ IRC is a place for all of us to hang out, chat and provide support. To ensure th
 
 * If you think it might be inappropriate, don't say it.
 
-**Racism, sexism, bigotry, harassment, threats, etc. are strictly prohibited**
+**Racism, sexism, bigotry, harassment, threats, etc. are strictly prohibited.**
 
 * Do not use racial slurs, or bigoted remarks.
 * Do not harass or threaten any user or use this channel as a place to coordinate attacks on others.
