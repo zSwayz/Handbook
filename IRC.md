@@ -26,6 +26,7 @@ IRC is a place for all of us to hang out, chat and provide support. To ensure th
 * Chat colors should be used sparingly. Do not color your chat for no good reason.
 * If you need to paste a number of lines to the channel, use a website such as http://paste.md-5.net/.
 * Do not run unauthorized bots that speak in the channel.
+* The use of an AutoJoin bot is strictly prohibited, and will result in a ban.
 
 **No advertising servers, other channels, or products.**
 
